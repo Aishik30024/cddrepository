@@ -9,3 +9,6 @@ List of subs I have now:
 Editing from Github ??
 checking it's changing the main file or not......
 2nd attempt to change from git to source
+
+3rd attempt to change.....
+after cloning repositiry in local system lets see it works
